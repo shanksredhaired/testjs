@@ -1,0 +1,17 @@
+{
+  "data": {
+    "__schema": {
+      "queryType": {
+        "name": "Query"
+      },
+      "types": [
+        {
+          "kind": "OBJECT",
+          "name": "Query",
+          "description": "<img src=x onerror=alert(1)>",
+          "fields": []
+        }
+      ]
+    }
+  }
+}
